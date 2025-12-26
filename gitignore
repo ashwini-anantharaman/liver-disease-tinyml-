@@ -1,0 +1,10 @@
+# Ignore Mac/Windows system files
+.DS_Store
+Thumbs.db
+
+# Ignore Python cache
+__pycache__/
+*.ipynb_checkpoints/
+
+# Ignore Arduino build files
+build/
