@@ -35,4 +35,4 @@ An offline, embedded AI device capable of diagnosing liver disease risk in real-
 4.  Example Input: `65, 1, 0.7, 0.1, 187, 16, 18, 6.8, 3.3, 0.9`
 
 ---
-*Created by [Your Name]*
+*Created by Ashwini Anantharaman*
